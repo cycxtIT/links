@@ -23,7 +23,7 @@ draft: true
   ```yaml
     - 名称: "Dejavu's Blog"
       网址: "https://www.dejavu.moe"
-      头像: "https://www.dejavu.moe/links/imgs/www.dejavu.moe.webp"
+      头像: "https://www.dejavu.moe/links/src/www.dejavu.moe.webp"
       描述: "与君初相见，犹如故人归"
   ```
   
