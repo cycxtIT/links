@@ -8,7 +8,7 @@ showtoc: false
 searchHidden: true
 excludeFromRSS: true
 ---
-
+{{<friend name="程源の小站" url="https://blog.cycxtit.top/" logo="scr/blog.cycxtit.top.webp" word="破站要倒了开了帮帮忙" >}}
 {{<friend name="LOGI" url="https://logi.im/" logo="src/logi.im.webp" word="会点代码的强迫症" >}}
 {{<friend name="CXPLAY World " url="https://blog.bugimg.com/" logo="src/blog.bugimg.com.webp" word="Share With You. " >}}
 {{<friend name="ideaclover" url="https://idealclover.top/" logo="src/idealclover.top.webp" word="Stay simple, stay naive." >}}
